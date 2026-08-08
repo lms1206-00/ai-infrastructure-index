@@ -9,11 +9,9 @@ SEC 공시 데이터와 재무 팩터를 활용하여 **10개 테마 · 100개 �
 
 ## 📌 프로젝트 소개
 
-기존 AI 관련 ETF를 분석하면서 반도체·데이터센터와 같은 인프라 기업뿐만 아니라  
-AI 소프트웨어 및 서비스 기업까지 폭넓게 포함되어 있다는 점에 주목했습니다.
+기존 AI 관련 ETF를 분석하면서 반도체·데이터센터와 같은 인프라 기업뿐만 아니라 AI 소프트웨어 및 서비스 기업까지 폭넓게 포함되어 있다는 점에 주목했습니다.
 
-이에 본 프로젝트에서는 단순히 AI를 활용하는 기업이 아닌,  
-**AI가 실제로 학습되고 서비스될 수 있도록 기반을 제공하는 기업**에 집중했습니다.
+이에 본 프로젝트에서는 단순히 AI를 활용하는 기업이 아닌, **AI가 실제로 학습되고 서비스될 수 있도록 기반을 제공하는 기업**에 집중했습니다.
 
 AI Infrastructure를 **반도체, 서버, 네트워크, 전력, 냉각, 광통신, 데이터센터, 클라우드, 스토리지, 산업자동화**의 10개 테마로 정의하고, SEC 공시 기반 재무데이터를 활용하여 최종 **100개 기업으로 구성된 Custom Index**를 구축했습니다.
 
@@ -40,13 +38,10 @@ AI Infrastructure를 **반도체, 서버, 네트워크, 전력, 냉각, 광통�
 
 ## 🏗️ AI Infrastructure 정의
 
-본 프로젝트에서는 AI Infrastructure를  
-**AI 모델의 학습·추론·서비스에 필요한 물리적·디지털 기반을 제공하는 산업**으로 정의했습니다.
-<p align="center">
-  <img src="figures/ai_infrastructure_ecosystem.png" width="850">
-</p>
+본 프로젝트에서는 AI Infrastructure를 **AI 모델의 학습·추론·서비스에 필요한 물리적·디지털 기반을 제공하는 산업**으로 정의했습니다.
+
 | Theme | 주요 영역 |
-|---|---|
+| --- | --- |
 | Semiconductor | GPU, CPU, AI Accelerator 및 반도체 |
 | Server | AI 연산 서버 및 컴퓨팅 시스템 |
 | Networking | 데이터센터 네트워크 및 연결 인프라 |
@@ -62,12 +57,8 @@ AI Infrastructure를 **반도체, 서버, 네트워크, 전력, 냉각, 광통�
 
 ## 🔄 Index Construction Process
 
-AI Infrastructure의 범위를 정의한 이후 기업 데이터 확보부터
-최종 인덱스 산출까지 단계적으로 구축했습니다.
+AI Infrastructure의 범위를 정의한 이후 기업 데이터 확보부터 최종 인덱스 산출까지 단계적으로 구축했습니다.
 
-<p align="center">
-  <img src="figures/index_construction_process.png" width="900">
-</p>
 ```text
 AI Infrastructure 범위 정의
             ↓
@@ -130,7 +121,7 @@ Index Backtest & Validation
 ### Selection Score
 
 | 평가 항목 | 비중 |
-|---|---:|
+| --- | ---: |
 | AI Infrastructure 관련성 | 60% |
 | Data Quality | 25% |
 | Factor Availability | 15% |
@@ -146,7 +137,7 @@ Index Backtest & Validation
 기업의 성장성·수익성·효율성·재무 안정성을 평가하기 위해 다음 4개 핵심 재무 팩터를 활용했습니다.
 
 | Factor | 의미 |
-|---|---|
+| --- | --- |
 | Revenue Growth | 매출 성장성 |
 | Operating Margin | 영업 수익성 |
 | ROA | 자산 활용 효율성 |
@@ -176,8 +167,7 @@ Data Quality
 Eligibility
 ```
 
-초기 Universe에 포함된 기업을 그대로 유지하는 것이 아니라,  
-각 리밸런싱 시점에서 기준을 충족하는 기업을 대상으로 인덱스를 구성했습니다.
+초기 Universe에 포함된 기업을 그대로 유지하는 것이 아니라, 각 리밸런싱 시점에서 기준을 충족하는 기업을 대상으로 인덱스를 구성했습니다.
 
 ### Weighting
 
@@ -188,7 +178,7 @@ Eligibility
 - 개별 종목 최대 비중 **10%**
 - Quarterly Rebalancing
 
-이를 통해 높은 평가를 받은 기업에 상대적으로 높은 비중을 부여하면서도 특정 종목에 대한 과도한 집중을 제한했습니다.
+높은 평가를 받은 기업에 상대적으로 높은 비중을 부여하면서도 특정 종목에 대한 과도한 집중을 제한했습니다.
 
 ---
 
@@ -218,12 +208,14 @@ Index Rebalancing
 
 ## 📈 Backtest & Performance
 
-구축한 Custom Index의 과거 성과를 확인하기 위해
-Historical Backtest를 수행했습니다.
+구축한 Custom Index의 과거 성과를 확인하기 위해 Historical Backtest를 수행했습니다.
+
+### Cumulative Return
 
 <p align="center">
-  <img src="figures/backtest_performance.png" width="900">
+  <img src="./figures/cumulative_return.png" width="850">
 </p>
+
 주요 성과 평가지표는 다음과 같습니다.
 
 - CAGR
@@ -233,6 +225,14 @@ Historical Backtest를 수행했습니다.
 - Volatility
 
 단순 누적수익률뿐만 아니라 **수익성과 위험을 함께 평가**하여 인덱스의 특성을 검증했습니다.
+
+### Drawdown
+
+<p align="center">
+  <img src="./figures/drawdown.png" width="850">
+</p>
+
+누적수익률과 함께 Drawdown을 확인하여 상승장에서의 성과뿐만 아니라 하락 구간에서의 위험도 함께 평가했습니다.
 
 ---
 
@@ -257,12 +257,7 @@ Historical Backtest를 수행했습니다.
 
 ## 🖥️ Monitoring System
 
-구축된 인덱스를 일회성 분석으로 끝내지 않고 지속적으로 관리할 수 있도록
-팀 프로젝트 차원에서 Monitoring Dashboard를 구현했습니다.
-
-<p align="center">
-  <img src="figures/monitoring_dashboard.png" width="900">
-</p>
+구축된 인덱스를 일회성 분석으로 끝내지 않고 지속적으로 관리할 수 있도록 **팀 프로젝트 차원에서 Monitoring Dashboard를 구현했습니다.**
 
 Monitoring System에서는 다음과 같은 정보를 확인할 수 있도록 구성했습니다.
 
@@ -285,8 +280,7 @@ Monitoring System에서는 다음과 같은 정보를 확인할 수 있도록 �
 
 ### 주요 담당 업무
 
-- AI Infrastructure 산업 범위 정의
-- 10개 Infrastructure Theme 구조화
+- AI Infrastructure 산업 범위 및 10개 테마 정의
 - 초기 투자 후보군 구성
 - SEC 기반 기업 데이터 확보 과정 설계
 - 후보 기업과 SEC Entity 데이터 매칭
@@ -297,8 +291,7 @@ Monitoring System에서는 다음과 같은 정보를 확인할 수 있도록 �
 - Index 편입 및 리밸런싱 방법론 설계
 - 인덱스 구축 과정 문서화 및 결과 검증
 
-특히 기존 AI ETF의 구성종목을 단순 활용하는 방식이 아니라,  
-**AI Infrastructure의 범위를 정의하고 기업 데이터를 확보하여 투자 유니버스를 처음부터 구축하는 과정**에 집중했습니다.
+특히 기존 AI ETF의 구성종목을 단순 활용하는 방식이 아니라, **AI Infrastructure의 범위를 정의하고 기업 데이터를 확보하여 투자 유니버스를 처음부터 구축하는 과정**에 집중했습니다.
 
 ---
 
@@ -352,7 +345,7 @@ ai-infrastructure-index/
 │   └── 프로젝트 관련 문서
 │
 ├── figures/
-│   └── 결과 및 시각화 자료
+│   └── Backtest 및 분석 결과
 │
 ├── .gitignore
 └── README.md
@@ -371,8 +364,7 @@ ai-infrastructure-index/
 
 으로 이어지는 **Quantitative Investment Research Process**를 경험했습니다.
 
-특히 금융 데이터 분석에서는 단순한 수익률 개선뿐만 아니라  
-**공시 시점, 데이터 기준일, 결측치, 데이터 품질 및 Look-ahead Bias를 통제하는 과정이 중요하다**는 점을 확인했습니다.
+특히 금융 데이터 분석에서는 단순한 수익률 개선뿐만 아니라 **공시 시점, 데이터 기준일, 결측치, 데이터 품질 및 Look-ahead Bias를 통제하는 과정이 중요하다**는 점을 확인했습니다.
 
 ---
 
