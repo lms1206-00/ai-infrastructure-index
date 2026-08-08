@@ -1,0 +1,12 @@
+﻿column,exists,available,missing,coverage_pct
+revenue,True,5,0,100.0
+operating_income,True,5,0,100.0
+net_income,True,5,0,100.0
+assets,True,5,0,100.0
+liabilities,True,4,1,80.0
+market_cap,True,5,0,100.0
+sector,True,5,0,100.0
+industry,True,5,0,100.0
+country,True,5,0,100.0
+average_volume,True,5,0,100.0
+latest_close,True,5,0,100.0

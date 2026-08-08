@@ -1,0 +1,190 @@
+﻿ticker,error_type,error_message,response_seconds,structural_error
+AACB,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.766,True
+AACBR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.572,True
+AACBU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.627,True
+AACG,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.733,True
+AADX,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.63,True
+AAPG,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.857,True
+AARD,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.737,True
+AAUC,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.615,True
+AB,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.789,True
+ABCB,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.025,True
+ABEV,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.821,True
+ABLV,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.543,True
+ABLVW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.667,True
+ABOS,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.618,True
+ABR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.733,True
+ABTS,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.588,True
+ABVX,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.597,True
+ACB,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.628,True
+ACCL,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.635,True
+ACET,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.833,True
+ACIU,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.769,True
+ACP,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.96,True
+ACRV,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.997,True
+ACTU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.97,True
+ACV,HTTPError,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0001636289.json,12.026,False
+ACXP,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.973,True
+ADAG,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.13,True
+ADAM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.159,True
+ADAMG,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.187,True
+ADAMH,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.456,True
+ADAMI,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.249,True
+ADAML,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.248,True
+ADAMM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.241,True
+ADAMN,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.248,True
+ADAMO,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.277,True
+ADAMZ,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.251,True
+ADIL,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.073,True
+ADSE,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.972,True
+ADSEW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.997,True
+ADUR,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.026,True
+ADVB,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.088,True
+ADX,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.053,True
+ADXN,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.032,True
+AEC,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.555,True
+AEF,HTTPError,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0000846676.json,11.453,False
+AEFC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.055,True
+AEG,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.973,True
+AEHL,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.094,True
+AEM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.056,True
+AEON,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.073,True
+AER,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.145,True
+AERO,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.869,True
+AESP,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.048,True
+AESPR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.872,True
+AESPU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.069,True
+AESPW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.977,True
+AFB,HTTPError,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0001162027.json,11.772,False
+AFBI,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,2.046,True
+AFJK,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.357,True
+AFJKR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.069,True
+AFJKU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.974,True
+AFRI,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.078,True
+AFRIW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.168,True
+AFYA,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.039,True
+AG,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.11,True
+AGBK,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.977,True
+AGCC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.075,True
+AGD,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.96,True
+AGI,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.974,True
+AGM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.302,True
+AGMB,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.046,True
+AGMH,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.058,True
+AGNC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.257,True
+AGNCL,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.08,True
+AGNCM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.092,True
+AGNCN,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.219,True
+AGNCO,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.164,True
+AGNCP,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.243,True
+AGNCZ,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.143,True
+AGQ,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.038,True
+AGRO,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.891,True
+AGRZ,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.916,True
+AHG,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.208,True
+AHMA,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.151,True
+AIAI,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.136,True
+AIB,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.04,True
+AIBZ,HTTPError,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0002100457.json,12.083,False
+AIFU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.015,True
+AIIO,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.068,True
+AIIOW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.049,True
+AIIR,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.89,True
+AIOS,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.205,True
+AIQD,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.168,True
+AIQU,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.184,True
+AIRJ,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.022,True
+AIRJW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.032,True
+AIXI,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.142,True
+AKAN,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.047,True
+AKTS,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.021,True
+AKTX,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.102,True
+ALAR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.155,True
+ALC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.149,True
+ALDF,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.061,True
+ALDFU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.996,True
+ALDFW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.096,True
+ALDX,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.129,True
+ALLR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.03,True
+ALLT,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.209,True
+ALM,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.005,True
+ALMR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.086,True
+ALP,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.129,True
+ALPS,HTTPError,404 Client Error: Not Found for url: https://data.sec.gov/api/xbrl/companyfacts/CIK0002025774.json,11.685,False
+ALRS,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.123,True
+ALVO,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.094,True
+ALVOW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.125,True
+ALZN,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.111,True
+AMAL,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.085,True
+AMBP,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.057,True
+AMBR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.161,True
+AMSS,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.561,True
+AMTB,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.198,True
+AMTD,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.111,True
+AMUB,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.111,True
+AMX,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.021,True
+ANGH,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.997,True
+ANGHW,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.061,True
+ANL,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.051,True
+ANNX,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.256,True
+ANPA,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.971,True
+ANRO,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.103,True
+ANTA,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.107,True
+ANTX,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.14,True
+AOD,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.95,True
+AOMD,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.045,True
+AOMN,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.015,True
+AOMR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.107,True
+APA,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.964,True
+APAC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.722,True
+APACR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.836,True
+APACU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.037,True
+APC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.008,True
+APGE,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.88,True
+API,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.025,True
+APLM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.127,True
+APLMW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.002,True
+APM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.085,True
+APRE,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.888,True
+APUR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.013,True
+APURR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.013,True
+APUS,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.137,True
+APWC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.13,True
+APXT,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.015,True
+APXTU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.107,True
+APXTW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.065,True
+AQN,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.105,True
+AQNB,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.223,True
+ARBB,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.052,True
+ARBE,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.104,True
+ARBEW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.006,True
+ARBK,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.989,True
+ARCC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.127,True
+ARCI,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.886,True
+ARCIU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.003,True
+ARCIW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.074,True
+ARCL,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.067,True
+ARCLR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.813,True
+ARCLU,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.878,True
+ARCLW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.144,True
+ARCO,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,0.985,True
+ARDC,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.937,True
+ARE,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.262,True
+ARGX,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.042,True
+ARIS,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.058,True
+ARLO,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.246,True
+ARM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.125,True
+AROW,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.421,True
+ARQQ,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.114,True
+ARQQW,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.977,True
+ARR,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.111,True
+ARTL,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.167,True
+ARXS,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.078,True
+AS,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.839,True
+ASA,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.079,True
+ASC,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.237,True
+ASG,ValueError,US-GAAP 데이터를 찾지 못했습니다.,0.943,True
+ASGI,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.065,True
+ASM,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.0,True
+ASML,ValueError,최신 연간 Revenue 데이터를 찾지 못했습니다.,1.194,True
+ASND,ValueError,US-GAAP 데이터를 찾지 못했습니다.,1.168,True

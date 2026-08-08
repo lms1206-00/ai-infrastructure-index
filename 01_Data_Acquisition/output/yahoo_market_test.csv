@@ -1,0 +1,6 @@
+﻿ticker,company_name,quote_type,market_cap,sector,industry,country,full_time_employees,shares_outstanding,beta,average_volume,currency,exchange,exchange_name,website,latest_price_date,latest_close,latest_volume,response_seconds
+NVDA,NVIDIA Corporation,EQUITY,5146962558976,Technology,Semiconductors,United States,42000,24221000000,2.211,157657672,USD,NMS,NasdaqGS,https://www.nvidia.com,2026-07-15,212.5,118979465.0,7.559
+AMD,"Advanced Micro Devices, Inc.",EQUITY,862816043008,Technology,Semiconductors,United States,31000,1630600639,2.469,36567649,USD,NMS,NasdaqGS,https://www.amd.com,2026-07-15,529.1400146484375,27727468.0,0.862
+AVGO,Broadcom Inc.,EQUITY,1875818708992,Technology,Semiconductors,United States,33000,4757580198,1.462,26246386,USD,NMS,NasdaqGS,https://www.broadcom.com,2026-07-15,394.2799987792969,16167483.0,0.764
+ANET,"Arista Networks, Inc.",EQUITY,216476401664,Technology,Computer Hardware,United States,5115,1259169438,1.601,9868445,USD,NYQ,NYSE,https://www.arista.com,2026-07-15,171.9199981689453,8077834.0,0.741
+VRT,Vertiv Holdings Co,EQUITY,116988018688,Industrials,Electrical Equipment & Parts,United States,34000,384108816,2.029,6201314,USD,NYQ,NYSE,https://www.vertiv.com,2026-07-15,304.57000732421875,3867996.0,0.762

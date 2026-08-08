@@ -1,0 +1,6 @@
+﻿Metric,Available,Missing,Coverage(%)
+revenue,5,0,100.0
+operating_income,5,0,100.0
+net_income,5,0,100.0
+assets,5,0,100.0
+liabilities,4,1,80.0

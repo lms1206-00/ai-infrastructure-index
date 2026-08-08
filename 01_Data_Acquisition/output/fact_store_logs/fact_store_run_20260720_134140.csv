@@ -1,0 +1,6 @@
+﻿ticker,cik,status,row_count,output_path,error_type,error_message,started_at,finished_at,elapsed_seconds
+A,0001090872,success,33620,data\facts\0001090872.parquet,,,2026-07-20T13:41:40,2026-07-20T13:41:41,1.338
+AA,0001675149,success,16508,data\facts\0001675149.parquet,,,2026-07-20T13:41:41,2026-07-20T13:41:42,0.873
+AAAU,0001708646,success,2237,data\facts\0001708646.parquet,,,2026-07-20T13:41:42,2026-07-20T13:41:43,0.72
+AAC,0002128115,success,5,data\facts\0002128115.parquet,,,2026-07-20T13:41:43,2026-07-20T13:41:44,0.578
+AACB,0002034334,success,446,data\facts\0002034334.parquet,,,2026-07-20T13:41:44,2026-07-20T13:41:44,0.601

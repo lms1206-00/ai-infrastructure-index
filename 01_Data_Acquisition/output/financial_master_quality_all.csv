@@ -1,0 +1,16 @@
+﻿metric,available,missing,coverage_pct
+collection_success,3818,2606,59.43
+revenue,3818,0,100.0
+operating_income,3245,573,84.99
+net_income,3809,9,99.76
+assets,3811,7,99.82
+liabilities,3808,10,99.74
+period_consistent,3818,0,100.0
+liabilities_calculated,3818,0,100.0
+data_age_days,3818,0,100.0
+is_stale,3818,0,100.0
+financial_warning,3818,0,100.0
+period_consistent_true,3230,588,84.6
+liabilities_calculated_true,517,3301,13.54
+is_stale_true,321,3497,8.41
+financial_warning_true,583,3235,15.27
