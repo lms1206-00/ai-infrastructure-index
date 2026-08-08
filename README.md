@@ -42,7 +42,9 @@ AI Infrastructure를 **반도체, 서버, 네트워크, 전력, 냉각, 광통�
 
 본 프로젝트에서는 AI Infrastructure를  
 **AI 모델의 학습·추론·서비스에 필요한 물리적·디지털 기반을 제공하는 산업**으로 정의했습니다.
-
+<p align="center">
+  <img src="figures/ai_infrastructure_ecosystem.png" width="850">
+</p>
 | Theme | 주요 영역 |
 |---|---|
 | Semiconductor | GPU, CPU, AI Accelerator 및 반도체 |
@@ -60,8 +62,12 @@ AI Infrastructure를 **반도체, 서버, 네트워크, 전력, 냉각, 광통�
 
 ## 🔄 Index Construction Process
 
-AI Infrastructure의 범위를 정의한 이후 기업 데이터 확보부터 최종 인덱스 산출까지 단계적으로 구축했습니다.
+AI Infrastructure의 범위를 정의한 이후 기업 데이터 확보부터
+최종 인덱스 산출까지 단계적으로 구축했습니다.
 
+<p align="center">
+  <img src="figures/index_construction_process.png" width="900">
+</p>
 ```text
 AI Infrastructure 범위 정의
             ↓
@@ -212,8 +218,12 @@ Index Rebalancing
 
 ## 📈 Backtest & Performance
 
-구축한 Custom Index의 과거 성과를 확인하기 위해 Historical Backtest를 수행했습니다.
+구축한 Custom Index의 과거 성과를 확인하기 위해
+Historical Backtest를 수행했습니다.
 
+<p align="center">
+  <img src="figures/backtest_performance.png" width="900">
+</p>
 주요 성과 평가지표는 다음과 같습니다.
 
 - CAGR
@@ -247,8 +257,12 @@ Index Rebalancing
 
 ## 🖥️ Monitoring System
 
-구축된 인덱스를 일회성 분석으로 끝내지 않고 지속적으로 관리할 수 있도록  
-**팀 프로젝트 차원에서 Monitoring Dashboard를 구현했습니다.**
+구축된 인덱스를 일회성 분석으로 끝내지 않고 지속적으로 관리할 수 있도록
+팀 프로젝트 차원에서 Monitoring Dashboard를 구현했습니다.
+
+<p align="center">
+  <img src="figures/monitoring_dashboard.png" width="900">
+</p>
 
 Monitoring System에서는 다음과 같은 정보를 확인할 수 있도록 구성했습니다.
 
